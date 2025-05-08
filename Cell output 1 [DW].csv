@@ -1,0 +1,6 @@
+bioID,useFirst,firstName,middleName,lastName,nameGiven,fullGivenName,nameSuffix,nameNick,pos,firstseason,lastseason,height,weight,college,collegeOther,birthDate,birthCity,birthState,birthCountry,highSchool,hsCity,hsState,hsCountry,deathDate,race
+abdelal01,Alaa,Alaa,,Abdelnaby,,,,,F-C,0.0,0.0,82.0,240.0,Duke,,1968-06-24,Cairo,,EGY,Bloomfield Senior,Bloomfield,NJ,USA,0000-00-00,B
+abdulka01,Kareem,Kareem,,Abdul-Jabbar,,"Ferdinand Lewis Alcindor, Jr.",,"Lew, Cap",C,0.0,0.0,85.0,225.0,UCLA,,1947-04-16,New York,NY,USA,Power Memorial,New York,NY,USA,0000-00-00,B
+abdulma01,Mahdi,Mahdi,,Abdul-Rahman,,"Walter Raphael Hazzard, Jr.",,Walt,G,0.0,0.0,74.0,185.0,UCLA,Santa Monica City,1942-04-15,Wilmington,DE,USA,Overbrook / Moton,Philadelphia / Easton,PA / MD,USA,2011-11-18,B
+abdulma02,Mahmoud,Mahmoud,,Abdul-Rauf,,Chris Wayne Jackson,,,G,0.0,0.0,73.0,162.0,Louisiana State,,1969-03-09,Gulfport,MS,USA,Gulfport,Gulfport,MS,USA,0000-00-00,B
+abdulta01,Tariq,Tariq,,Abdul-Wahad,,Olivier Michael Saint-Jean,,,G-F,0.0,0.0,78.0,223.0,San Jose State,Michigan,1974-11-03,Maisons Alfort,,FRA,Lycee Aristide Briand,Evreux,,FRA,0000-00-00,B
